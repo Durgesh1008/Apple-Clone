@@ -1,0 +1,127 @@
+iPhone (1st generation)
+From Wikipedia, the free encyclopedia
+Jump to navigationJump to search
+iPhone
+IPhonelogo.svg
+IPhone 1st Gen.svg
+iPhone (front view)
+Developer	Apple Inc.
+Manufacturer	Foxconn (contract manufacturer)[1][verification needed]
+Slogan	
+"Apple reinvents the phone."
+[citation needed]
+Generation	1st
+Model	A1203[2]
+First released	June 29, 2007; 14 years ago
+Discontinued	July 15, 2008; 13 years ago
+Units sold	6.1 million
+Successor	iPhone 3G
+Related	iPad, iPod Touch (comparison)
+Type	Smartphone
+Form factor	Slate
+Dimensions	
+115 mm (4.5 in) H
+61 mm (2.4 in) W
+11.6 mm (0.46 in) D
+Mass	135 g (4.8 oz)
+Operating system	
+Original: iPhone OS 1.0
+Last: iPhone OS 3.1.3
+Released February 2, 2010; 12 years ago
+CPU	Samsung 32-bit RISC ARM 1176JZ(F)-S v1.0[3] 620 MHz
+Underclocked to 412 MHz[4]
+GPU	PowerVR MBX Lite 3D GPU[5]
+Memory	128 MB eDRAM[6]
+Storage	4, 8, or 16 GB flash memory
+Battery	3.7 V 1400 mAh Lithium-ion battery[7]
+Data inputs	
+Multi-touch touchscreen display
+3-axis accelerometer
+Proximity sensor
+Ambient light sensor
+Microphone
+Headset controls
+Display	
+90 mm (3+1⁄2 in) screen (diagonally)
+480x320 pixel resolution at 163 ppi
+3:2 aspect ratio
+18-bit (262,144-color) LCD
+Rear camera	2.0 MP with geotagging (Not GPS-based)
+Sound	
+Single loudspeaker
+TRRS headphone jack, 20 Hz to 20 kHz frequency response (internal, headset)
+Microphone
+Connectivity	
+Quad-band GSM/GPRS/EDGE
+(850, 900, 1800, 1900 MHz)
+Wi-Fi (802.11 b/g)
+Bluetooth 2.0
+USB 2.0/Dock connector[8]
+Website	Apple - iPhone at the Wayback Machine (archived June 29, 2007)
+This article is part of a series on the
+iPhone
+1st3G3GS
+44S
+55C5S
+6 / 6+6S / 6S+
+7 / 7+8 / 8+
+XXRXS / XS Max
+1111 Pro / 11 Pro Max
+12 / 12 Mini12 Pro / 12 Pro Max
+13 / 13 Mini13 Pro / 13 Pro Max
+iPhone SE 1st2nd3rd
+List of iPhone models
+
+Telephone icon blue gradient.svg Telephones portal
+The iPhone (also known as the iPhone 2G,[9] iPhone 1[citation needed], iPhone (original)[citation needed]) is the first smartphone designed and marketed by Apple Inc. After years of rumors and speculation, it was officially announced on January 9, 2007,[10] and was released in the United States on June 29, 2007.
+
+Development of the iPhone as a product began in 2005 and continued in complete secrecy until its public unveiling. The device broke with prevailing mobile phone designs by eliminating most physical hardware buttons, and eschewing a stylus for its screen-based interface, instead featuring only a few physical buttons and a touch screen. It featured quad-band GSM cellular connectivity with GPRS and EDGE support for data transfer, and made use of continuous internet access and onboard processing to support features unrelated to voice communication. Its successor, the iPhone 3G, was announced on June 9, 2008.
+
+The iPhone quickly became Apple's most successful product, propelling it to the most profitable company at the time.[11] The introduction of the App Store allowed established companies and startup developers to build careers and earn billions of dollars via the platform, while providing consumers with new ways to access information and connect with other people.[12] The iPhone largely appealed to the general public, as opposed to the business community BlackBerry and IBM focused on at the time, and by integrating existing technology and expanding on usability, the iPhone turned the smartphone industry "on its head".[13]
+
+
+Contents
+1	History
+2	Release
+3	Post-release
+4	Hardware
+4.1	External hardware
+4.2	Internal hardware
+5	Software
+5.1	Software history
+6	Reception
+7	See also
+8	References
+9	External links
+History
+Main article: History of iPhone
+In 1999, Apple CEO Steve Jobs envisioned an Apple touchscreen product that the user could interact with directly with their fingers rather than using a stylus.[citation needed] The stylus was a common tool for many existing touchscreen devices at the time including Apple's own Newton, launched in 1993. He decided that the device would require a triple layered capacitive multi-touch touch screen, a very new and advanced technology at the time. This helped with removing the physical keyboard and mouse, the same as was common at the time for tablet computers, human machine interfaces and point of sale systems. Jobs recruited a group of Apple engineers to investigate the idea as a side project.[14] When Jobs reviewed the prototype and its user interface, he saw the potential in developing the concept into a mobile phone to compete with already established brands in the then emerging market for touch screen phones.[15] The whole effort was called Project Purple 2 and began in 2005.[16] Apple purchased the "iphone.org" domain in December 1999.[17]
+
+Apple created the device during a secretive and unprecedented collaboration with Cingular Wireless, now part of AT&T. The development cost of the collaboration was estimated to have been $150 million[18] over a thirty-month period. Apple rejected the "design by committee" approach that had yielded the Motorola ROKR E1, a largely unsuccessful collaboration with Motorola. Instead, Cingular Wireless gave Apple the liberty to develop the iPhone's hardware and software in-house.[19][20] The original iPhone was introduced by Steve Jobs on January 9, 2007 in a keynote address at the Macworld Conference & Expo held in Moscone West in San Francisco, California.[14] In his address, Jobs said, "This is a day that I have been looking forward to for two and a half years," and that "today, Apple is going to reinvent the phone".[21] Jobs introduced the iPhone as a combination of three devices: a "widescreen iPod with touch controls"; a "revolutionary mobile phone"; and a "breakthrough Internet communicator".[22]
+
+Six weeks prior to the iPhone's release, the plastic screen was replaced with glass, after Jobs was upset that the screen of the prototype he was carrying in his pocket had been scratched by his keys. The quick switch led to a bidding process for a manufacturing contractor that was won by Foxconn, which had just opened up a new wing of its Shenzhen factory complex specifically for this bid.[23]
+
+Release
+
+An 8 GB iPhone
+The iPhone was released in the United States on June 29, 2007 at the price of $499 for the 4 GB model and $599 for the 8 GB model, both requiring a 2-year contract.[14] Thousands of people were reported to have waited outside Apple and AT&T retail stores days before the device's launch;[24] many stores reported stock shortages within an hour of availability. To avoid repeating the problems of the PlayStation 3 launch, which caused burglaries and even a shooting, off-duty police officers were hired to guard stores overnight.[25][26]
+
+It was later made available in the United Kingdom, France, Germany, Portugal, the Republic of Ireland, and Austria in November 2007.[14][failed verification]
+
+Six out of ten Americans surveyed said they knew before its release that the iPhone was coming.[26]
+
+
+First iPhone on display under glass at 2007 Macworld
+Post-release
+The iPhone's main competitors in both consumer and business markets were considered to be the LG Prada, LG Viewty, Samsung Ultra Smart F700, Nokia N95, Nokia E61i, Palm Treo 750, Palm Centro, HTC Touch, Sony Ericsson W960, Sony Ericsson C905 and BlackBerry.[27][28][29][30] The iPod Touch, a touchscreen device with the media and internet abilities and interface of the iPhone but without the ability to connect to a cellular network for phone functions or internet access, was released on September 5, 2007. At the same time, Apple significantly dropped the price of the 8 GB model (from $599 to $399, still requiring a 2-year contract with AT&T) while discontinuing the 4 GB model.[31] Apple sold the one millionth iPhone five days later, or 74 days after the release.[32] After receiving "hundreds of emails" upset about the price drop, Apple gave store credit to early adopters.[33]
+
+A 16 GB model was released on February 5, 2008 for $499, the original launch price of the 4 GB model.[34] Apple released an SDK on March 6, 2008, allowing developers to create the apps that would be available starting in iPhone OS version 2.0, a free upgrade for iPhone users. On June 9, Apple announced the iPhone 3G, which began shipping July 11.[35] The original iPhone was discontinued on July 15; total sales volume came to 6,124,000 units.
+
+Hardware
+External hardware
+The iPhone's back cover is made out of brushed aluminum, a soft metal.[36] The iPhone's screen is a 320x480 resolution LCD multi-touch screen at 163 ppi that measures about 3.5 inches diagonally, much bigger than other phones at the time. The rear camera on the iPhone has a resolution of 2 megapixels, and also features geotagging. The iPhone has four total buttons and a single switch: a power and sleep button, a volume up and volume down button, a silent/ringer switch, and a home button positioned in the bottom center of the face of the phone. The home button, when pressed, would send the user back to the home screen from whatever app they were currently using.
+
+Internal hardware
+The iPhone featured a Samsung 32-bit ARM microprocessor, underclocked from its stock 620 MHz to a slower 412 MHz to increase battery life. The iPhone also included several sets of sensors, including an accelerometer, a proximity sensor, and an ambient light sensor. Similar to the iPod Touch, the iPhone also featured a 3.5 millimetre auxiliary headphone jack. The phone also had a 3.7 V 1400 mAh Lithium-ion battery built in it.
+
+Software
